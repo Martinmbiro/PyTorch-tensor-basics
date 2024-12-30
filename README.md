@@ -17,7 +17,7 @@ Hello again 👋
 4. [`PyTorch`](https://pytorch.org/) -  An open source machine learning (ML) framework based on the Python programming language and the Torch library, that's used for building Deep Learning models
 
 ## Reference 📚
-+ Thanks to the insight gained from [`Microsoft Learn`](https://learn.microsoft.com), and [`Udemy`](https://www.udemy.com/)
++ Thanks to the insight gained from [`Microsoft Learn`](https://learn.microsoft.com/api/achievements/share/en-us/MartinMuriithi-6560/XMSABQWY?sharingId=C156514E494249EC), [`Udemy`](https://www.udemy.com/) and [Daniel Bourke](https://x.com/mrdbourke?s=21&t=1Fg4dWHIo5p7EaMHhv2rng)
 + Not forgetting these gorgeous gourgeous [`emojis`](https://gist.github.com/FlyteWizard/468c0a0a6c854ed5780a32deb73d457f) 😻
 
 > _Illustration by [`Storyset`](https://storyset.com)_ ♥
